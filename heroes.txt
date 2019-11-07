@@ -1,0 +1,6 @@
+John the teen,Knight,3,7840,gun,leather armor
+Alex the great,Elf,0,294,long bow,leather armor
+Thor the all mighty,viking,4,9237,long sword,steal armor
+kondie the coder,mage,5,15740,jokes,com.kondiewtc.swingy.model.artifact.Armor@41ea1b72
+knedzing the coder,viking,2,4700,knife,wood armor
+uu,knight,1,1910,long sword,steel armor
